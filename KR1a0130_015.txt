@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易俟
-#+DATE: 2015-09-23 09:35:28
-#+PROPERTY: JUAN 15
+#+DATE: 2015-08-24 21:59:09.747367
+#+PROPERTY: ID KR1a0130
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR1a0130_WYG_015-1a>¶
 欽定四庫全書¶
 　易俟卷十五　　　　　翰林侍讀喬萊撰¶
@@ -434,4 +436,3 @@
 　¶
 　¶
 　易俟卷十五¶
-

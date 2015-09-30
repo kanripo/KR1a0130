@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易俟
-#+DATE: 2015-09-23 09:35:28
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 21:59:09.762522
+#+PROPERTY: ID KR1a0130
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR1a0130_WYG_016-1a>¶
 欽定四庫全書¶
 　易俟卷十六　　　　　翰林侍讀喬萊撰¶
@@ -398,4 +400,3 @@
 象曰上六引兑未光也¶
 　¶
 　易俟卷十六¶
-
